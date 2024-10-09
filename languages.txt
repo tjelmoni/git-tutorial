@@ -1,2 +1,2 @@
-c++
-payhton
+c++ -weak
+payhton -nothing
